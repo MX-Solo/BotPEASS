@@ -165,11 +165,6 @@ def is_summ_keyword_present(summary: str):
 def is_prod_keyword_present(products: str):
     ''' Given the summary check if any keyword is present '''
 
-    if(w in products for w in PRODUCT_KEYWORDS):
-        print(w)
-    if(w.lower() in products.lower() for w in PRODUCT_KEYWORDS_I):
-        print(w)
-    
     return any(w in products for w in PRODUCT_KEYWORDS) or \
             any(w.lower() in products.lower() for w in PRODUCT_KEYWORDS_I)
 
