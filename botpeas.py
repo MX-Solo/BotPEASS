@@ -139,7 +139,7 @@ def filter_cves(cves: list, last_time: datetime.datetime, tt_filter: Time_Type) 
         cve_time = datetime.datetime.strptime(cve[tt_filter.value], TIME_FORMAT)
         if cve_time > last_time:
             if ALL_VALID or is_summ_keyword_present(cve["summary"]) or is_prod_keyword_present(str(cve["vulnerable_configuration"])):
-                print("keyword is : " + is_summ_keyword_present(cve["summary"]) + "and , : " + is_prod_keyword_present(str(cve["vulnerable_configuration"])))
+                print("asdasdasdasdasdasd")
                 filtered_cves.append(cve)
 
         if cve_time > new_last_time:
