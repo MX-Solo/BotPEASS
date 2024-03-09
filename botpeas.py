@@ -345,6 +345,7 @@ def send_pushover_message(message: str, public_expls_msg: str):
 #################### MAIN #########################
 
 def main():
+    print("start")
     #Load configured keywords
     load_keywords()
 
