@@ -18,6 +18,20 @@ DESCRIPTION_KEYWORDS_I:
 - kubernetes
 - " lxc "
 - podman
+- CISCO
+- Microsoft
+- Windows
+- Linux
+- HP LaserJet Printer
+- Unix
+- Brocade
+- Switch
+- D-Link
+- Nutanix
+- VMware
+- FortiOS
+
+
 
 DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
@@ -29,6 +43,17 @@ PRODUCT_KEYWORDS_I:
 - lxc
 - podman
 - container
+- Microsoft
+- Windows
+- Linux
+- HP LaserJet Printer
+- Unix
+- Brocade
+- Switch
+- D-Link
+- Nutanix
+- VMware
+- FortiOS
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
