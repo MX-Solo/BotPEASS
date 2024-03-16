@@ -1,59 +1,120 @@
 ALL_VALID: no
 
 DESCRIPTION_KEYWORDS_I:
-- privilege escalation
-- escalation
-- privesc
-- high integrity
-- elevated privilege
-- escalation of privilege
-- " sudo "
-- " suid "
-- " pe "
-- " UAC "
-- User Account Control
-- linpeas
-- winpeas
-- docker
-- kubernetes
-- " lxc "
-- podman
-- CISCO
-- Microsoft
+- CISCO IOS
+- Cisco IOS XE
+- Microsoft Windows
+- Microsoft Windows 10 Enterprise
+- Linux Kernel 2.6
 - Windows
-- Linux
 - HP LaserJet Printer
+- Linux Kernel 2.6 on Red Hat Enterprise Linux 4
 - Unix
-- Brocade
-- Switch
-- D-Link
+- Microsoft Windows 10
+- Microsoft Windows 10 Enterprise
+- Brocade Switch
+- Microsoft Windows 10 Pro
+- D-Link Print Server - DP-301P+
+- Microsoft Windows 7 Ultimate
+- Microsoft Windows 7
+- Microsoft Windows Server 2008 R2
+- Microsoft Windows 10 Pro
+- Debian 8.0 Linux Kernel 3.16
+- Microsoft Corporation Windows Media Player 12
+- Windows 10 Home
+- Windows 10 Pro
+- Windows 10 Pro Education
+- Windows 10 Enterprise
+- Windows 10 Enterprise LTSB
+- Windows 10 Education
+- Windows 10 IoT Core
+- Windows 10 IoT Enterprise
+- Windows 10 S
+- Microsoft Windows Server 2012 R2
+- CISCO IOS 15
+- CISCO IOS 12
+- Cisco IOS XE
+- CISCO PIX
+- Microsoft Corporation Windows Media Player Sharing 12.0
+- Linux Kernel 5.15.0-53-generic on Ubuntu 22.04
 - Nutanix
-- VMware
-- FortiOS
-
+- Linux Kernel 5.15.0-43-generic on Ubuntu 22.04
+- VMware vCenter Server 8.0.0 build-21216066
+- VMware ESXi 6.5
+- VMware ESXi 7.0.3 build-21313628
+- Linux Kernel 4.18.0-425.19.2.el8_7.x86_64 on Rocky Linux release 8.7 (Green Obsidian)
+- Microsoft Windows Server 2022 Standard Build 20348
+- FortiOS on Fortinet FortiGate
+- Linux Kernel 2.4
+- Microsoft Windows Server 2022 Datacenter Build 20348
+- Microsoft Windows 11
+- Windows 11
+- Microsoft Windows 11 Enterprise
+- Microsoft Windows 10 Enterprise Build 22000
+- Microsoft Windows 11 Pro
+- Microsoft Windows 10 Enterprise Build 19045
+- Microsoft Windows 11 Enterprise
+- Microsoft Windows Server 2019 Standard Build 17763
 
 
 DESCRIPTION_KEYWORDS:
 - ThisIsACaseSensitiveExample
 
 PRODUCT_KEYWORDS_I:
-- sudo
-- docker
-- kubernetes
-- lxc
-- podman
-- container
-- Microsoft
+- CISCO IOS
+- Cisco IOS XE
+- Microsoft Windows
+- Microsoft Windows 10 Enterprise
+- Linux Kernel 2.6
 - Windows
-- Linux
 - HP LaserJet Printer
+- Linux Kernel 2.6 on Red Hat Enterprise Linux 4
 - Unix
-- Brocade
-- Switch
-- D-Link
+- Microsoft Windows 10
+- Microsoft Windows 10 Enterprise
+- Brocade Switch
+- Microsoft Windows 10 Pro
+- D-Link Print Server - DP-301P+
+- Microsoft Windows 7 Ultimate
+- Microsoft Windows 7
+- Microsoft Windows Server 2008 R2
+- Microsoft Windows 10 Pro
+- Debian 8.0 Linux Kernel 3.16
+- Microsoft Corporation Windows Media Player 12
+- Windows 10 Home
+- Windows 10 Pro
+- Windows 10 Pro Education
+- Windows 10 Enterprise
+- Windows 10 Enterprise LTSB
+- Windows 10 Education
+- Windows 10 IoT Core
+- Windows 10 IoT Enterprise
+- Windows 10 S
+- Microsoft Windows Server 2012 R2
+- CISCO IOS 15
+- CISCO IOS 12
+- Cisco IOS XE
+- CISCO PIX
+- Microsoft Corporation Windows Media Player Sharing 12.0
+- Linux Kernel 5.15.0-53-generic on Ubuntu 22.04
 - Nutanix
-- VMware
-- FortiOS
+- Linux Kernel 5.15.0-43-generic on Ubuntu 22.04
+- VMware vCenter Server 8.0.0 build-21216066
+- VMware ESXi 6.5
+- VMware ESXi 7.0.3 build-21313628
+- Linux Kernel 4.18.0-425.19.2.el8_7.x86_64 on Rocky Linux release 8.7 (Green Obsidian)
+- Microsoft Windows Server 2022 Standard Build 20348
+- FortiOS on Fortinet FortiGate
+- Linux Kernel 2.4
+- Microsoft Windows Server 2022 Datacenter Build 20348
+- Microsoft Windows 11
+- Windows 11
+- Microsoft Windows 11 Enterprise
+- Microsoft Windows 10 Enterprise Build 22000
+- Microsoft Windows 11 Pro
+- Microsoft Windows 10 Enterprise Build 19045
+- Microsoft Windows 11 Enterprise
+- Microsoft Windows Server 2019 Standard Build 17763
 
 PRODUCT_KEYWORDS:
 - ThisIsACaseSensitiveExample
