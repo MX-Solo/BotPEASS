@@ -2,6 +2,7 @@ ALL_VALID: no
 
 DESCRIPTION_KEYWORDS_I:
 - CISCO IOS
+- exchange
 - Cisco IOS XE
 - Microsoft Windows
 - Microsoft Windows 10 Enterprise
@@ -90,6 +91,7 @@ PRODUCT_KEYWORDS_I:
 - Windows 10 IoT Core
 - Windows 10 IoT Enterprise
 - Windows 10 S
+- exchange
 - Microsoft Windows Server 2012 R2
 - CISCO IOS 15
 - CISCO IOS 12
